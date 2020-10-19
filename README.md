@@ -1,6 +1,6 @@
 ### Run Program
 ```
-cd Triangle
+cd triangle
 python solve-triangle.py triangle.txt
 ```
 The answer to this problem is 732506.
